@@ -1,7 +1,5 @@
 [TehSongXuan_HelmNet_Full_Code _2.html](https://github.com/user-attachments/files/28422062/TehSongXuan_HelmNet_Full_Code._2.html)
-from pathlib import Path
 
-readme = """# HelmNet: Safety Helmet Image Classification Using Computer Vision
 
 ## Project Overview
 
