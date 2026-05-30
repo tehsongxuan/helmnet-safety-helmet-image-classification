@@ -257,7 +257,6 @@ This project demonstrates my ability to:
 - Data Augmentation
 - Classification Report
 - Confusion Matrix
-- HTML / Markdown formatting for GitHub presentation
 
 ## Examiner Review
 
