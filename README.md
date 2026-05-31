@@ -271,8 +271,4 @@ This project demonstrates how computer vision and deep learning can be applied t
 The final CNN from Scratch model achieved strong test performance and provided a useful baseline for helmet classification. However, the project also shows that safety-related AI systems should not be judged by accuracy alone. The **Without Helmet** class requires careful attention because missed detections may affect real-world safety outcomes.
 
 Overall, HelmNet presents a structured, reproducible, and business-relevant computer vision workflow that connects technical model development with practical workplace safety decision support.
-"""
 
-path = Path("/mnt/data/HelmNet_GitHub_README.md")
-path.write_text(readme, encoding="utf-8")
-path
